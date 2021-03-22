@@ -1,0 +1,98 @@
+[Critical]:	[LoggingFeature.Page.IndexModel][3001]  -> 2021-03-19 18:50:31+00:00
+	On Get Completed
+	
+[Critical]:	[LoggingFeature.Page.IndexModel][3001]  -> 2021-03-19 18:50:35+00:00
+	On Get Completed
+	
+[Critical]:	[LoggingFeature.Page.IndexModel][3001]  -> 2021-03-20 03:57:20+00:00
+	null
+	On Get Completed
+	
+[Critical]:	[LoggingFeature.Page.IndexModel][3001]  -> 2021-03-20 03:57:22+00:00
+	null
+	On Get Completed
+	
+[Critical]:	[LoggingFeature.Page.IndexModel][3001]  -> 2021-03-20 04:13:22+00:00
+	"Scope:Razor Index"
+	On Get Completed
+	
+[Critical]:	[LoggingFeature.Page.IndexModel][3001]  -> 2021-03-20 04:18:19+00:00
+	"Scope:Razor Index"
+	On Get Completed
+	
+[Critical]:	[LoggingFeature.Page.IndexModel][3001]  -> 2021-03-20 06:03:17+00:00
+	"Scope:Razor Index"
+	On Get Completed
+	
+[Critical]:	[LoggingFeature.Page.IndexModel][Started]  -> 2021-03-20 06:07:30+00:00
+	
+	High Performance Logger.Page Request Started.3/20/2021 11:37:28 AM
+	
+[Critical]:	[LoggingFeature.Page.IndexModel][3001]  -> 2021-03-20 06:07:30+00:00
+	"Scope:Razor Index"
+	On Get Completed
+	
+[Critical]:	[LoggingFeature.Page.IndexModel][Ended]  -> 2021-03-20 06:07:30+00:00
+	
+	High Performance Logger.Page Request Ended.3/20/2021 11:37:30 AM
+	
+[Critical]:	[LoggingFeature.Page.IndexModel][Started]  -> 2021-03-20 06:21:50+00:00
+	
+	High Performance Logger.Page Request Started.3/20/2021 11:51:45 AM
+	
+[Critical]:	[LoggingFeature.Page.IndexModel][3001]  -> 2021-03-20 06:21:50+00:00
+	"Scope:Razor Index"
+	On Get Completed
+	
+[Critical]:	[LoggingFeature.Page.IndexModel][Ended]  -> 2021-03-20 06:21:50+00:00
+	
+	High Performance Logger.Page Request Ended.3/20/2021 11:51:50 AM
+	
+[Critical]:	[LoggingFeature.Page.IndexModel][Started]  -> 2021-03-20 06:22:35+00:00
+	
+	High Performance Logger.Page Request Started.3/20/2021 11:52:35 AM
+	
+[Critical]:	[LoggingFeature.Page.IndexModel][3001]  -> 2021-03-20 06:22:35+00:00
+	"Scope:Razor Index"
+	On Get Completed
+	
+[Critical]:	[LoggingFeature.Page.IndexModel][Ended]  -> 2021-03-20 06:22:35+00:00
+	
+	High Performance Logger.Page Request Ended.3/20/2021 11:52:35 AM
+	
+[Critical]:	[LoggingFeature.Page.IndexModel][Started]  -> 2021-03-20 06:24:29+00:00
+	
+	High Performance Logger.Page Request Started.3/20/2021 11:54:29 AM
+	
+[Critical]:	[LoggingFeature.Page.IndexModel][3001]  -> 2021-03-20 06:24:29+00:00
+	"Scope:Razor Index"
+	On Get Completed
+	
+[Critical]:	[LoggingFeature.Page.IndexModel][Ended]  -> 2021-03-20 06:24:29+00:00
+	
+	High Performance Logger.Page Request Ended.3/20/2021 11:54:29 AM
+	
+[Critical]:	[LoggingFeature.Page.IndexModel][Started]  -> 2021-03-20 06:25:16+00:00
+	
+	High Performance Logger.Page Request Started.3/20/2021 11:55:16 AM
+	
+[Critical]:	[LoggingFeature.Page.IndexModel][3001]  -> 2021-03-20 06:25:16+00:00
+	"Scope:Razor Index"
+	On Get Completed
+	
+[Critical]:	[LoggingFeature.Page.IndexModel][Ended]  -> 2021-03-20 06:25:16+00:00
+	
+	High Performance Logger.Page Request Ended.3/20/2021 11:55:16 AM
+	
+[Critical]:	[LoggingFeature.Page.IndexModel][Started]  -> 2021-03-20 06:26:14+00:00
+	
+	High Performance Logger.Page Request Started.3/20/2021 11:56:14 AM
+	
+[Critical]:	[LoggingFeature.Page.IndexModel][3001]  -> 2021-03-20 06:26:14+00:00
+	"Scope:Razor Index"
+	On Get Completed
+	
+[Critical]:	[LoggingFeature.Page.IndexModel][Ended]  -> 2021-03-20 06:26:14+00:00
+	
+	High Performance Logger.Page Request Ended.3/20/2021 11:56:14 AM
+	

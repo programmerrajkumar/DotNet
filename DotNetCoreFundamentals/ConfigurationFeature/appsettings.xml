@@ -1,0 +1,21 @@
+﻿<configuration>
+	<SecretKey>Secret key value</SecretKey>
+	<TransientFaultHandlingOptions>
+		<Enabled>true</Enabled>
+		<AutoRetryDelay>00:00:07</AutoRetryDelay>
+	</TransientFaultHandlingOptions>
+	<Logging>
+		<LogLevel>
+			<Default>Information</Default>
+			<Microsoft>Warning</Microsoft>
+		</LogLevel>
+	</Logging>
+	<section name="section0">
+		<key name="key0">value 00</key>
+		<key name="key1">value 01</key>
+	</section>
+	<section name="section1">
+		<key name="key0">value 10</key>
+		<key name="key1">value 11</key>
+	</section>
+</configuration>

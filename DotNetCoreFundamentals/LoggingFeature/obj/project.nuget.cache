@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qy5mm7cONBeFUqv+hlm1v1tKw9tWH5ep5QsZlSsIQIDBQ+AFatWGasze0B12ASHMocEtKM6/8b/+GsViQXOoMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rajkumar.s\\source\\repos\\DotNetCoreFundamentals\\LoggingFeature\\LoggingFeature.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajkumar.s\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
