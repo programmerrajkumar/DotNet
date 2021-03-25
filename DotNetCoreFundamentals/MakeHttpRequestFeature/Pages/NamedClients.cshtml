@@ -1,0 +1,25 @@
+﻿@page
+@model MakeHttpRequestFeature.Pages.NamedClientsModel
+@{
+}
+
+@if (Model.IsPullRequestSuccess)
+{
+    if (Model.HasPullRequests)
+    {
+        <ul>
+            @foreach (var pr in Model.PullRequests)
+            {
+                <li>@pr.Title</li>
+            }
+        </ul>
+    }
+    else
+    {
+        <p>no pull request from GitHub.</p>
+    }
+}
+else
+{
+    <p>Unable to get issues from GitHub. Please try again later.</p>
+}

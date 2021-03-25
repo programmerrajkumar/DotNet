@@ -1,0 +1,46 @@
+﻿@page
+@model MakeHttpRequestFeature.Pages.TypedClientsModel
+@{
+    ViewData["Title"] = "Latest GitHub Repos & Issues for ASP.NET Docs";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+
+<h2>GitHub Repos</h2>
+
+@if (Model.GetReposError)
+{
+    <p>Unable to get repos from GitHub. Please try again later.</p>
+}
+else if (Model.HasRepo)
+{
+    @foreach (var repo in Model.Repos)
+    {
+        <h2>@repo</h2>
+    }
+}
+else
+{
+    <p>No repos found.</p>
+}
+
+<h2>Github Issue</h2>
+
+@if (Model.GetIssuesError)
+{
+    <p>Unable to get issues from GitHub. Please try again later.</p>
+}
+else if (Model.HasIssue)
+{
+    @foreach (var issue in Model.LatestIssues)
+    {
+        <h2>Title: @issue.Title</h2>
+        <p><a href="@issue.Url">View Issue</a></p>
+    }
+}
+else
+{
+    <p>No issues found.</p>
+}
+

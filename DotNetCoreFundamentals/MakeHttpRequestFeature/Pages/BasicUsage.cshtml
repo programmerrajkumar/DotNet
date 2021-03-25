@@ -1,0 +1,19 @@
+﻿@page
+@model MakeHttpRequestFeature.Pages.BasicUsageModel
+@{
+    ViewData["Title"] = "Branches for Asp.net core Docs Repo";
+}
+
+@if (Model.IsSuccessfullRequest)
+{
+    <ul>
+        @foreach (var branch in Model.Branches)
+        {
+            <li>@branch.Name</li>
+        }
+    </ul>
+}
+else
+{
+    <p>Unable to get branches from GitHub. Please try again later.</p>
+}
